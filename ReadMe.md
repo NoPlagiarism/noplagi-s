@@ -90,10 +90,6 @@ You can, but
 - **it's my decision to add it or not**
 - Script should be open-source
 
-### Why PRs are closed?
-
-They are kinda useless here. At least, for now
-
 ### Can I believe you?
 
 Why not? `:D`
