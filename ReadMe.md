@@ -28,7 +28,7 @@
 
 ### speedtest.net
 
-- **Description:** Run a speedtest.net test from the cli without installing it (Wrapper by @asheroto)
+- **Description:** Run a speedtest.net test from the cli without installing it (Wrapper by [@asheroto](https://github.com/asheroto))
 - **License:** [GNU GPL v3](https://github.com/asheroto/speedtest/blob/main/LICENSE) | [Source Code](https://github.com/asheroto/speedtest)
 - Script (`s-speedtest`)
 
