@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Chris Titus Tech's Windows Utility",
+        "description": "Install Programs, Tweaks, Fixes, and Updates",
+        "url": "https://r.noplagi.xyz/s-winutil",
+        "original": "https://christitus.com/win"
+    },
+    {
+        "name": "Chris Titus Tech's Windows Utility (DEV)",
+        "description": "Install Programs, Tweaks, Fixes, and Updates",
+        "url": "https://r.noplagi.xyz/s-winutil-dev",
+        "original": "https://christitus.com/windev"
+    },
+    {
+        "name": "speedtest.net",
+        "description": "Run a speedtest.net test from the cli without installing it (Wrapper by asheroto)",
+        "url": "https://r.noplagi.xyz/s-speedtest",
+        "original": "https://asheroto.com/speedtest"
+    },
+    {
+        "name": "Microsoft Activation Scripts (MAS)",
+        "description": "A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections",
+        "url": "https://r.noplagi.xyz/s-mas",
+        "original": "https://get.activated.win"
+    },
+    {
+        "name": "Scoop (Installer)",
+        "description": "Command-line installer for Windows (best in my opinion)",
+        "url": "https://r.noplagi.xyz/s-scoop",
+        "original": "https://get.scoop.sh"
+    },
+    {
+        "name": "tiny11",
+        "description": "Scripts to build a trimmed-down Windows 11 image",
+        "url": "https://r.noplagi.xyz/s-tiny11",
+        "original": "https://raw.githubusercontent.com/ntdevlabs/tiny11builder/main/tiny11maker.ps1"
+    },
+    {
+        "name": "tiny11 core",
+        "description": "Scripts to build a trimmed-down Windows 11 image",
+        "url": "https://r.noplagi.xyz/s-tiny11-core",
+        "original": "https://raw.githubusercontent.com/ntdevlabs/tiny11builder/main/tiny11Coremaker.ps1"
+    }
+]
